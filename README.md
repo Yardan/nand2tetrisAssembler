@@ -1,3 +1,6 @@
+### About
+This is Hack assembly translator written on PHP for Hack machine from course "From Nand to Tetris" (https://www.nand2tetris.org/).
+
 ### How to use
 1. Install docker and docker compose
 2. Docker build ```docker compose build```
